@@ -1,0 +1,5 @@
+{
+    "type": "watching",
+    "name": "за сервером Bandicoot",
+    "commentary": "Доступные значения type: playing, watching, listening, streaming (пока что не используем)"
+}

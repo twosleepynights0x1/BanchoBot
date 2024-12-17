@@ -1,0 +1,10 @@
+{
+    "cog_folders": [
+        "admin_func",
+        "dev_func",
+        "event",
+        "news",
+        "server_func",
+        "user_func"
+    ]
+}

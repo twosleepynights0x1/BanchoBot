@@ -1,0 +1,5 @@
+disnake
+colorama
+translate
+langdetect
+pytz

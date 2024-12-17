@@ -1,0 +1,60 @@
+{
+    "token": "Ваш API токен бота",
+
+    "prefix": "!!!",
+
+    "test_guild_id": 769803386815119401,
+
+    "ADMIN_LOG_CHANNEL": 1306265583410745448,
+
+    "ACTIVITY_DAY_IMAGE": "https://i.pinimg.com/originals/53/91/a3/5391a3819447eaa2459068e678dbae7f.gif",
+
+    "BotStatus": "https://i.pinimg.com/originals/8e/dd/25/8edd25eaef846269172c3c8ed5cb1e08.gif",
+
+    "BotHelp": "https://i.pinimg.com/originals/2b/18/c1/2b18c16315c96d0814b27a49bdd8fe7d.gif",
+
+    "ResultChangeRoleGif": "https://i.pinimg.com/originals/64/cf/9c/64cf9cb263e85394ba453d23272b572a.gif",
+
+    "NotificationChangeRoleGif": "https://i.pinimg.com/originals/b6/29/53/b629530be6dde00314aa127ab40e1a2c.gif",
+
+    "FAQ_IMAGE": "https://i.pinimg.com/originals/1c/c1/d0/1cc1d0d4aad11de649b0ddb28b97ef6e.gif",
+
+    "ANONS_IMAGE": "https://i.pinimg.com/originals/1c/c1/d0/1cc1d0d4aad11de649b0ddb28b97ef6e.gif",
+
+    "CALENDAR_IMAGE": "https://i.pinimg.com/originals/8e/0d/a1/8e0da1707fdb144129cf2ecaa548475d.gif",
+
+    "CALENDAR_NOTIFICATION_IMAGE": "https://i.pinimg.com/originals/ff/83/c1/ff83c117ab0716c808f834140aafb7cf.gif",
+
+    "ROULETTE_DIED": "https://i.pinimg.com/originals/8a/0c/53/8a0c53bba153549e1e33070619afb75a.gif",
+
+    "ROULETTE_SURV": "https://i.pinimg.com/originals/15/48/25/15482551dd841d75ecc4491870c40e7a.gif",
+
+    "INTERACTIVE_AVATAR": "https://i.pinimg.com/originals/4f/29/f6/4f29f6b31afe15c7e4268b35df66bff9.gif",
+
+    "INTERACTIVE_IMAGE": "https://i.pinimg.com/originals/53/91/a3/5391a3819447eaa2459068e678dbae7f.gif",
+
+    "ACTIVITY_CHANNEL_IMAGE": null,
+
+    "ENGAGEMENT_IMAGE": "https://i.pinimg.com/originals/53/91/a3/5391a3819447eaa2459068e678dbae7f.gif",
+
+    "INVITE_IMAGE": "https://i.pinimg.com/originals/1c/c1/d0/1cc1d0d4aad11de649b0ddb28b97ef6e.gif",
+
+    "REACTION_TOP_IMAGE": "https://i.pinimg.com/originals/53/91/a3/5391a3819447eaa2459068e678dbae7f.gif",
+
+    "LOG_CHANGE_COMMIT": 1309031300593618964,
+
+    "voice_log_channel": 1308965549195264102,
+
+    "NotificationChannel": 1298416229647646740,
+
+    "NotificationRole": 1298509141098233858,
+
+    "TrackingPlayerResultRole": 1298509141098233858,
+
+    "MuteRole": 796308168719728651,
+
+    "ADMIN": [1294045970975428628, 784160890761117767, 1264330890889134182, 1025668964447158322],
+
+    "BOT_OWNER": 817763083523063839
+
+}
